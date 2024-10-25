@@ -2,7 +2,7 @@ interface Page {
   title: string;
   likes: number;
   accounts: string[];
-  status: "open|close";
+  status: "open" | "close";
   details?: {
     createAt: Date;
     updateAT: Date;
