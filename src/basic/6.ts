@@ -13,13 +13,3 @@ const mango: User = {
   age: 30,
   email: "john@example.com",
 };
-
-const polly: User = {
-  name: "Polly",
-  age: 28,
-  email: "polly@example.com",
-  adress: {
-    city: "NewYork",
-    country: "USA",
-  },
-};
